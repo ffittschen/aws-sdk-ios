@@ -1,0 +1,10 @@
+AWSCore:
+  project: AWSiOSSDKv2.xcodeproj
+  sdks:
+  - iphonesimulator
+  - iphoneos
+AWSIoT:
+  project: AWSiOSSDKv2.xcodeproj
+  sdks:
+  - iphonesimulator
+  - iphoneos
